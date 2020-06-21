@@ -2,7 +2,7 @@
 
 Este repositório é destinado a reunir materiais para auxiliar as pessoas que prestarão a ANPEC.
 
-## Conteúdo
+## Conteúdo para a Anpec
 
 A lista é a seguinte:
 
@@ -10,6 +10,11 @@ A lista é a seguinte:
 * [Anpec Expresso](https://anpecexpresso.com/)
 * [Material do Professor Assunção](https://www.acjassumpcao.com/)
 * [Material do Professor Roberto para Microeconomia](http://robguena.fearp.usp.br/anpec/)
+* [Dicas de Estudo para a Anpec de Roberta Olivieri](https://github.com/marcelogelati/material-anpec/blob/master/ANPEC%20Dicas.pdf)
+
+## Dicas sobre a pós-graduação
+
+* [Guia da pós-graduação em economia de Mateus Maciel e outros](https://www.dropbox.com/sh/07fejkxd569fry9/AADO4KW4LXOHJfQihxFbAT2ba?dl=0)
 
 ## Contato
 
