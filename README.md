@@ -18,4 +18,4 @@ A lista é a seguinte:
 
 ## Contato
 
-Caso queiram sugerir mais materiais, basta me enviar um e-mail em marcelogelati@gmail.com ou me mandar uma mensagem no [Twitter](twitter.com/marcelogelati). Mais que isso, caso queiram materiais que tenham a resolução das provas, entrem em contato comigo pedindo que eu disponibilizo para vocês.
+Caso queiram sugerir mais materiais, basta me enviar um e-mail em marcelogelati@gmail.com. Mais que isso, caso queiram materiais que tenham a resolução das provas, entrem em contato comigo pedindo que eu disponibilizo para vocês.
